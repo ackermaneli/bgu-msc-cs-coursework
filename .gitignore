@@ -1,0 +1,7 @@
+# Ignore all Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# ignore specific to optimization methods course
+OptimizationMethods_Eran/courseNotes/
+OptimizationMethods_Eran/sylibus.pdf
+OptimizationMethods_Eran/assignments/assignment_1/notes_before_solving.docx
